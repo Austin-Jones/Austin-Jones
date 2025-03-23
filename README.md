@@ -1,13 +1,12 @@
-Hi 👋 My name is Austin Jones
+Hi 👋 My name is Austin
 =============================
 
 Solutions Architect
 -------------------
+Hey! I’m a dev who’s into building clean UIs, React components, and random little tools that (hopefully) make life easier for other devs. I work with JavaScript, React, HTML, and CSS — the usual suspects.
+I share code snippets, templates, side project stuff, and occasionally just cool dev things I’ve been messing with. 
 
-A skilled and accomplished developer, with 3+ years of experience in fin-tech, from building and demonstrating prototypes all the way to designing and building customer deliverables that meet and exceed their requirements. Strong team player with good communication skills. Has experience leading small teams within a project to meet the project goals and get colleagues trained.
-
-* 🌍  I'm based in United States
-* ✉️  You can contact me at [96austin.j@gmail.com](mailto:96austin.j@gmail.com)
+* 🌍  I'm based in New York
 * 🧠  I'm learning MERN Stack
 * 🤝  I'm open to collaborating on Interesting projects
 

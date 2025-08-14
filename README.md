@@ -1,38 +1,41 @@
-Hi 👋 My name is Austin
-=============================
+# Hi there, I'm Austin 👋
 
-Solutions Architect
--------------------
-Hey! I’m a dev who’s into building clean UIs, React components, and random little tools that (hopefully) make life easier for other devs. I work with JavaScript, React, HTML, and CSS — the usual suspects.
-I share code snippets, templates, side project stuff, and occasionally just cool dev things I’ve been messing with. 
+🚀 **Solutions Architecture** | 💻 **SaaS & API Integrations** | 🎮 **Game Developer** | 💡 **Tech Creator**
 
-* 🌍  I'm based in New York
-* 🧠  I'm learning MERN Stack
-* 🤝  I'm open to collaborating on Interesting projects
+I help large enterprises and fintech startups **design, build, and scale** technical solutions — and in my spare time, I craft indie games and SaaS products.
 
-### Skills
+---
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="36" height="36" alt="NextJs" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-</p>
+## 🔹 What I’m Working On
+- **[VendorFlow](https://your-vendorflow-link.com)** – Vendor compliance & document tracking SaaS  
+- **Redundant Protocol** – Cooperative sci-fi horror game built in Unreal Engine  
+- **VS Code Extension** – Task tracking made simple for developers
 
+---
 
-### Socials
+## 🛠 Tech & Tools
+**Languages & Frameworks:**  
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)  
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript)  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)  
+![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase)
 
-<p align="left"> <a href="https://www.github.com/Austin-Jones" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@96austin.j" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" width="32" height="32" /></a></p>
+**Other Tools:**  
+![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unreal-engine)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws)  
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github)
 
-### Badges
+---
 
-<b>My GitHub Stats</b>
-<a href="https://github.com/Austin-Jones" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Austin-Jones&langs_count=5&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+## 📈 GitHub Stats
+![Austin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
 
-### Support Me
+---
 
-<a href="https://www.buymeacoffee.com/austin_codes"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+## 🌐 Connect With Me
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me)](https://www.austinwjones.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/austin-jones-262097a0)  
+
